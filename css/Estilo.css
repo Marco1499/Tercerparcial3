@@ -1,0 +1,22 @@
+nav
+{
+    background-color: rgb(4, 5, 83);
+}
+img{
+    width: 70%;
+    height: 600px;
+    align-items: center;
+}
+#modal
+{
+    float: left;
+    width: 60%;
+}
+#texto
+{
+    padding: 10px;
+    padding-left: 50px;
+
+    float: left;
+   width: 30%;
+}
